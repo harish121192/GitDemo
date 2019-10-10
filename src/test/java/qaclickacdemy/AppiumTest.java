@@ -11,10 +11,13 @@ public class AppiumTest {
 	public void AppiummTest()
 	{
 		System.out.println("NativeAppMethod");
+		System.out.println("NativeAppMethod");
+		System.out.println("NativeAppMethod");
+		System.out.println("NativeAppMethod");
 		
 	}
 	
-	@Test 
+	@Test  
 	
 	public void iOSAndroid()
 	{
