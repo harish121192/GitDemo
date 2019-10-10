@@ -24,4 +24,8 @@ public class AppiumTest {
 		System.out.println("iOSAndroid");
 	}
 	
+	public void iOSAndroiddesktop()
+	{
+		System.out.println("iOSAndroid");
+	}
 }

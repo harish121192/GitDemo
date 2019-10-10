@@ -22,4 +22,10 @@ public class RESTAPITest {
 	{
 		System.out.println("deleteTwitter");	
 	}
+	
+	@Test
+	public void deleteTwitterdup()
+	{
+		System.out.println("deleteTwitter");	
+	}
 }
