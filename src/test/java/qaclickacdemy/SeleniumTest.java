@@ -28,4 +28,10 @@ public class SeleniumTest {
 		System.out.println("ElementsUi");
 	}
 	
+	
+	
+	public void ElementsUi2222()
+	{
+		System.out.println("ElementsUi");
+	}
 }
